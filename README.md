@@ -12,10 +12,11 @@
 <img align=center alt="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align=center alt="SQLServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 <img align=center alt="Orace" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
-
-
-</div>
+</div><br/>
 
 ### Minhas contribuições 🚀
 
 ![Meus status ](https://github-readme-stats.vercel.app/api?username=Cristiano-Barbosa-commits&show_icons=true&theme=radical)
+
+### Minhas Linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiano-Barbosa-commits&layout=compact)
