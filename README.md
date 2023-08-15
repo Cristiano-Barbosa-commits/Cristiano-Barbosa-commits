@@ -1,5 +1,5 @@
-### Olá, esse é o meu github pessoal onde eu atualizo meus estudos e projetos pessoais!👋🎉🎉
-### Se quiser me ajudar, pode contribuir! 💪🏻💪🏻💪🏻💪🏻
+### Olá! Este é o meu github, onde eu atualizo meus estudos e projetos pessoais!👋🎉🎉
+### Se quiser me ajudar, pode contribuir! 💪🏻💪🏻💪🏻
 ### Minhas Skills 📖 
 <div style="display: inline_block"><br/>
 <img align=center alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
