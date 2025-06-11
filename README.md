@@ -1,6 +1,16 @@
-### Olá! Este é o Github em que atualizo meus estudos e projetos pessoais!👋🎉🎉
+# 👨‍💻 Cristiano Barbosa
+
+🎯 Quality Assurance Engineer com foco em Automação de Testes e Desenvolvimento Back-End.  
+🔍 Experiência com Cypress, Robot Framework, JavaScript, Python e mais.  
+📈 GitHub ativo com projetos de estudos, automações e experimentações técnicas.
 ### Se quiser ajudar, pode contribuir! 💪🏻💪🏻💪🏻
-### Minhas Skills 📖 
+
+## 🚀 Minhas Skills
+![Cypress](https://img.shields.io/badge/Cypress-232F3E?style=for-the-badge&logo=cypress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-grey?style=for-the-badge&logo=robotframework&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 <div style="display: inline_block"><br/>
 <img align=center alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align=center alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,17 +31,6 @@
 ### Minhas Linguagens
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiano-Barbosa-commits&layout=compact)
 
-# 👨‍💻 Cristiano Barbosa
-
-🎯 Quality Assurance Engineer com foco em Automação de Testes e Desenvolvimento Back-End.  
-🔍 Experiência com Cypress, Robot Framework, JavaScript, Python e mais.  
-📈 GitHub ativo com projetos de estudos, automações e experimentações técnicas.
-
-## 🚀 Minhas Skills
-![Cypress](https://img.shields.io/badge/Cypress-232F3E?style=for-the-badge&logo=cypress&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-grey?style=for-the-badge&logo=robotframework&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 📂 Repositórios em Destaque
 🔸 [Cyskills](https://github.com/Cristiano-Barbosa-commits/Cyskills): Testes automatizados com Cypress.  
