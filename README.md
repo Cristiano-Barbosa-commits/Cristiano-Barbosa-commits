@@ -20,3 +20,29 @@
 
 ### Minhas Linguagens
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiano-Barbosa-commits&layout=compact)
+
+# 👨‍💻 Cristiano Barbosa
+
+🎯 Quality Assurance Engineer com foco em Automação de Testes e Desenvolvimento Back-End.  
+🔍 Experiência com Cypress, Robot Framework, JavaScript, Python e mais.  
+📈 GitHub ativo com projetos de estudos, automações e experimentações técnicas.
+
+## 🚀 Minhas Skills
+![Cypress](https://img.shields.io/badge/Cypress-232F3E?style=for-the-badge&logo=cypress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-grey?style=for-the-badge&logo=robotframework&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+## 📂 Repositórios em Destaque
+🔸 [Cyskills](https://github.com/Cristiano-Barbosa-commits/Cyskills): Testes automatizados com Cypress.  
+🔸 [Robot_Framework](https://github.com/Cristiano-Barbosa-commits/Robot_Framework): Exemplos com Robot.  
+🔸 [JavaScript](https://github.com/Cristiano-Barbosa-commits/JavaScript): Projetos e exercícios diversos.
+
+## ✍️ Em aprendizado contínuo:
+- ✅ Cypress avançado
+- ✅ Design de testes
+- 🔄 Integração contínua (CI/CD)
+- 🔄 API Testing com Postman e Supertest
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/seu-linkedin)
