@@ -3,7 +3,7 @@
 🎯 Quality Assurance Engineer com foco em Automação de Testes e Desenvolvimento Back-End.  
 🔍 Experiência com Cypress, Robot Framework, JavaScript, Python e mais.  
 📈 GitHub ativo com projetos de estudos, automações e experimentações técnicas.
-### Se quiser ajudar, pode contribuir! 💪🏻💪🏻💪🏻
+
 
 ## 🚀 Minhas Skills
 ![Cypress](https://img.shields.io/badge/Cypress-232F3E?style=for-the-badge&logo=cypress&logoColor=white)
